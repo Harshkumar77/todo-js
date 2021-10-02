@@ -7,5 +7,10 @@ body {
   text-align: start;
 }
 
-.task p {
+.fa.fa-window-close {
+  font-size: 2rem;
+}
+.fa.fa-window-close:hover {
+  color: red;
+  cursor: pointer;
 }
