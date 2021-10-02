@@ -14,3 +14,6 @@ body {
   color: red;
   cursor: pointer;
 }
+.queue:hover {
+  background-color: aliceblue;
+}
