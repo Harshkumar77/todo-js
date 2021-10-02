@@ -46,6 +46,7 @@ function taskHTML(a) {
 }
 
 function updateBar() {
+  if (total == 0) $(".bar").css("width", "0");
   $(".bar").text(parseInt((done * 100) / total) + " %");
   $(".bar").css("width", parseInt((done * 100) / total) + "%");
 }
