@@ -9,3 +9,5 @@ Design is intentionally kept simple , for productivity :)
 url - https://todo-task.pages.dev/
 
 ![Gif of project](./gif.gif)
+
+Star it if u like :)
